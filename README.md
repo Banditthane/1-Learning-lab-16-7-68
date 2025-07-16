@@ -2,8 +2,8 @@
 
 ## **About Me >⩊<**
 
-- Name: Chakkaphong     Surname: Saengsida
+- **Name**: Chakkaphong     **Surname**: Saengsida
 
-- รหัสนักศึกษา: 68332110181-5
+- **รหัสนักศึกษา**: 68332110181-5
 
-- สาขา: ECP1N
+- **สาขา**: ECP1N
