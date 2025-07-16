@@ -1,5 +1,5 @@
 # **Learning-Portfolio**
 
-## My
-**Learning-Portfolio**
+**About Me**
+
 Name: Chakkaphong     Surname: Saengsida
